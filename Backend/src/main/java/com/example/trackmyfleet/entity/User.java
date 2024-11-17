@@ -2,7 +2,6 @@ package com.example.trackmyfleet.entity;
 
 import jakarta.persistence.*;
 import lombok.*;
-import com.example.trackmyfleet.entity.Role; // Dodaj ten import
 
 @Entity
 @Data

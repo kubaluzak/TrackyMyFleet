@@ -1,10 +1,7 @@
 package com.example.trackmyfleet.service;
 
 import com.example.trackmyfleet.entity.Driver;
-import com.example.trackmyfleet.entity.Vehicle;
 import com.example.trackmyfleet.repostiory.DriverRepository;
-import com.example.trackmyfleet.repostiory.VehicleRepository;
-import jakarta.websocket.server.ServerEndpoint;
 import lombok.AllArgsConstructor;
 import org.springframework.stereotype.Service;
 

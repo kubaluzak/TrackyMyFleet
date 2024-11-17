@@ -1,11 +1,9 @@
 package com.example.trackmyfleet.dto;
 
-import com.example.trackmyfleet.entity.Role;
 import com.example.trackmyfleet.entity.VehicleStatus;
 import jakarta.persistence.Column;
 import jakarta.persistence.EnumType;
 import jakarta.persistence.Enumerated;
-import jdk.jshell.Snippet;
 import lombok.AllArgsConstructor;
 import lombok.Data;
 import lombok.NoArgsConstructor;

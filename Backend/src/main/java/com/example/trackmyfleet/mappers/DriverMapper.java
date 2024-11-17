@@ -1,9 +1,7 @@
 package com.example.trackmyfleet.mappers;
 
 import com.example.trackmyfleet.dto.DriverDTO;
-import com.example.trackmyfleet.dto.VehicleDTO;
 import com.example.trackmyfleet.entity.Driver;
-import com.example.trackmyfleet.entity.Vehicle;
 import org.mapstruct.*;
 
 @Mapper(componentModel = "spring")

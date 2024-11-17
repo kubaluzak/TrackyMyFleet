@@ -8,7 +8,6 @@ import com.example.trackmyfleet.repostiory.DriverRepository;
 import com.example.trackmyfleet.repostiory.VehicleAssignmentRepository;
 import com.example.trackmyfleet.repostiory.VehicleRepository;
 import lombok.AllArgsConstructor;
-import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 
 import java.time.LocalDateTime;
